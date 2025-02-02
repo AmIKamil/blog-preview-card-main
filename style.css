@@ -22,7 +22,6 @@ body
     border-radius: 15px;
     border: 1px solid black;
     box-shadow: 5px 5px 1px 1px rgb(0,0,0);
-
 }
 #image > img
 {   
@@ -33,7 +32,6 @@ body
     width: 204px;
     border-radius: 8px;
 }
-
 article 
 {
     margin-top: 145px;
@@ -68,7 +66,7 @@ h2:hover
     color: hsl(47, 88%, 63%);
     cursor: pointer;
 }
-main
+p
 {   
     position: relative;
     font-size: 10px;
@@ -89,3 +87,4 @@ footer > img
     height: 20px;
     margin-right: 5px;
 }
+
